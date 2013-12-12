@@ -24,6 +24,12 @@ static void SendString(const unsigned char *str,  UART_Desc *desc) {
   }
 }
 
+static void InitRx(void) {
+	data.MySerialPtr = AS2_Init(&data);
+	data.isReceived = FALSE;
+	while(AS2_ReceiveBlock(data->MySerialPtr, (LDD)))
+}
+
 static void Init(void) {
   /* initialize struct fields */
   deviceData.handle = AS1_Init(&deviceData);

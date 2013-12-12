@@ -1,0 +1,12 @@
+!SESSION 2013-12-12 22:44:32.145 -----------------------------------------------
+eclipse.buildId=I20070613-1755
+java.version=1.6.0_15
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en
+Command-line arguments:  -os win32 -ws win32 -arch x86 -data C:\Thesis\superninjamodethesis
+
+!ENTRY org.eclipse.osgi 2 1 2013-12-12 22:44:50.417
+!MESSAGE NLS missing message: ContentTypes_errorDialogAlreadyExists in: org.eclipse.ui.internal.messages
+
+!ENTRY com.freescale.processorexpert.core 1 0 2013-12-12 22:45:13.975
+!MESSAGE Plugin com.freescale.processorexpert.core.service ProcessorExpertServiceProvider
