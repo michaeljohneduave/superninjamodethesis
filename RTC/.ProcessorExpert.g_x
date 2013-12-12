@@ -1,0 +1,39 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_Compiler_SearchUserPaths</name>
+      <values lines_count="4">
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/iofiles"</Line>
+        <Line>"${ProcessorExpertPath}/lib/Kinetis/pdd/inc"</Line>
+        <Line>"${ProjDirPath}/Sources"</Line>
+        <Line>"${ProjDirPath}/Generated_Code"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Project_Settings/Debugger/MKL25Z128.mem" FileDate="2013-12-09, 13:24:35" FileAge="1386566675836" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Vectors.c" FileDate="2013-12-09, 13:24:35" FileAge="1386566675830" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/ProcessorExpert.txt" FileDate="2013-12-09, 13:24:35" FileAge="1386566675914" FileType="3072" />
+      <File Name="Sources/Events.h" FileDate="2013-12-09, 13:24:35" FileAge="1386566675829" FileType="131328" />
+      <File Name="Documentation/ProcessorExpert_SIGNALS.txt" FileDate="2013-12-09, 13:24:35" FileAge="1386566675867" FileType="3072" />
+      <File Name="Sources/Events.c" FileDate="2013-12-09, 13:24:35" FileAge="1386566675827" FileType="131328" />
+      <File Name="Generated_Code/PE_Const.h" FileDate="2013-12-09, 13:24:35" FileAge="1386566675858" FileType="45637" />
+      <File Name="Documentation/doxygen/pex.doxyfile" FileDate="2013-12-09, 13:24:35" FileAge="1386566675840" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/IO_Map.h" FileDate="2013-12-09, 13:24:35" FileAge="1386566675855" FileType="45637" />
+      <File Name="Documentation/doxygen/ProcessorExpert.txt" FileDate="2013-12-09, 13:24:35" FileAge="1386566675844" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/ProcessorExpert_Settings.xml" FileDate="2013-12-09, 13:24:35" FileAge="1386566675905" FileType="3072" />
+      <File Name="Documentation/doxygen/pex.css" FileDate="2013-12-09, 13:24:35" FileAge="1386566675719" FileType="16384" CompNumb="2" />
+      <File Name="Sources/ProcessorExpert.c" FileDate="2013-12-09, 13:24:35" FileAge="1386566675851" FileType="128" />
+      <File Name="Project_Settings/Linker_Files/ProcessorExpert.ld" FileDate="2013-12-09, 13:24:35" FileAge="1386566675832" FileType="8" CompNumb="2" />
+      <File Name="Generated_Code/PE_Types.h" FileDate="2013-12-09, 13:24:35" FileAge="1386566675863" FileType="45637" />
+      <File Name="Generated_Code/PE_LDD.h" FileDate="2013-12-09, 13:24:35" FileAge="1386566675833" FileType="45637" CompNumb="2" />
+      <File Name="Documentation/doxygen/RoutingReport.txt" FileDate="2013-12-09, 13:24:35" FileAge="1386566675842" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2013-12-09, 13:24:35" FileAge="1386566675850" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PE_LDD.c" FileDate="2013-12-09, 13:24:35" FileAge="1386566675835" FileType="45637" CompNumb="2" />
+      <File Name="Generated_Code/PE_Error.h" FileDate="2013-12-09, 13:24:35" FileAge="1386566675859" FileType="45637" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2013-12-09, 13:24:35" FileAge="1386566675848" FileType="45637" CompNumb="2" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>1</CodeGenReference>
+</CodeGenerationInfo>
